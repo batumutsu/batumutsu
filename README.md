@@ -1,4 +1,4 @@
--- Hi there 👋
+Hi there 👋
 - 🔭 My interests are in Software Engineering, Data Sciences (ML, NLP, Computer Vision), and Distributed Systems.
 - 🌱 I’m currently learning Artificial Intelligence and Big Data Systems design, implementation.
 - 👯 I’m looking to collaborate to build open-sources technologies.
