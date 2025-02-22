@@ -1,5 +1,5 @@
 <br>
-<h1 align="center">Hi there 👋, I'm Batu</h1>
+<h1 align="center">Hi there 👋, I'm Batumutsu</h1>
 
 <h3 align="center">Senior Software Engineer | Full Stack Developer | ML Enthusiast</h3>
 
