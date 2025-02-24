@@ -73,6 +73,14 @@ I have experience of 8+ years in SpringBoot/NestJs/Python web development and de
 
 <h3 align="left">This week:</h3>
 <!--START_SECTION:waka-->
+
+```txt
+Java         0 secs          █████████████████░░░░░░░░   68.61 %
+YAML         0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.54 %
+XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 
 
