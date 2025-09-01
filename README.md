@@ -75,10 +75,10 @@ I have experience of 8+ years in SpringBoot/NestJs/Python web development and de
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 29 mins   ██████████████████████▓░░   90.60 %
-YAML         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   2 hrs 43 mins   █████████████████████▒░░░   85.71 %
+YAML         22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
